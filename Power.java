@@ -14,7 +14,7 @@ public class Power
   {
    r=1;
   }
-  else if(n==0 && p==0)
+  else if(n==0 && p>=0)
   {
    r=0;
   }
